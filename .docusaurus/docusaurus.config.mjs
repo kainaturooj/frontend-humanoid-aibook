@@ -7,10 +7,10 @@ export default {
   "title": "Physical AI & Humanoid Robotics",
   "tagline": "An Educational Textbook with Integrated RAG Chatbot",
   "favicon": "img/favicon.ico",
-  "url": "https://your-username.github.io",
+  "url": "https://fronend-humanoid-aibook.vercel.app",
   "baseUrl": "/physical-ai-humanoid-robotics/",
-  "organizationName": "your-organization",
-  "projectName": "physical-ai-humanoid-robotics",
+  "organizationName": "kainaturooJ",
+  "projectName": "fronend-humanoid-aibook",
   "onBrokenLinks": "throw",
   "onBrokenMarkdownLinks": "warn",
   "i18n": {
@@ -27,7 +27,7 @@ export default {
       {
         "docs": {
           "sidebarPath": "./sidebars.js",
-          "editUrl": "https://github.com/your-username/physical-ai-humanoid-robotics/tree/main/",
+          "editUrl": "https://github.com/kainaturooJ/fronend-humanoid-aibook/tree/main/",
           "sidebarCollapsible": true
         },
         "blog": false,
@@ -49,7 +49,7 @@ export default {
           "label": "Textbook"
         },
         {
-          "href": "https://github.com/your-username/physical-ai-humanoid-robotics",
+          "href": "https://github.com/kainaturooJ/fronend-humanoid-aibook",
           "label": "GitHub",
           "position": "right"
         }
@@ -86,7 +86,7 @@ export default {
           "items": [
             {
               "label": "GitHub",
-              "href": "https://github.com/your-username/physical-ai-humanoid-robotics"
+              "href": "https://github.com/kainaturooJ/fronend-humanoid-aibook"
             }
           ]
         }

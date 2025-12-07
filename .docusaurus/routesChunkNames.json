@@ -1,51 +1,51 @@
 {
-  "/physical-ai-humanoid-robotics/__docusaurus/debug-109": {
+  "/physical-ai-humanoid-robotics/__docusaurus/debug-62b": {
     "__comp": "__comp---theme-debug-config-23-a-2ff",
     "__context": {
-      "plugin": "plugin---physical-ai-humanoid-robotics-docusaurus-debug-98-e-479"
+      "plugin": "plugin---physical-ai-humanoid-robotics-docusaurus-debug-412-6ba"
     }
   },
-  "/physical-ai-humanoid-robotics/__docusaurus/debug/config-3c1": {
+  "/physical-ai-humanoid-robotics/__docusaurus/debug/config-239": {
     "__comp": "__comp---theme-debug-config-23-a-2ff",
     "__context": {
-      "plugin": "plugin---physical-ai-humanoid-robotics-docusaurus-debug-98-e-479"
+      "plugin": "plugin---physical-ai-humanoid-robotics-docusaurus-debug-412-6ba"
     }
   },
-  "/physical-ai-humanoid-robotics/__docusaurus/debug/content-783": {
+  "/physical-ai-humanoid-robotics/__docusaurus/debug/content-1e3": {
     "__comp": "__comp---theme-debug-contentba-8-ce7",
     "__context": {
-      "plugin": "plugin---physical-ai-humanoid-robotics-docusaurus-debug-98-e-479"
+      "plugin": "plugin---physical-ai-humanoid-robotics-docusaurus-debug-412-6ba"
     },
     "allContent": "allContent---physical-ai-humanoid-robotics-docusaurus-debug-content-246-f0b"
   },
-  "/physical-ai-humanoid-robotics/__docusaurus/debug/globalData-58e": {
+  "/physical-ai-humanoid-robotics/__docusaurus/debug/globalData-9ff": {
     "__comp": "__comp---theme-debug-global-dataede-0fa",
     "__context": {
-      "plugin": "plugin---physical-ai-humanoid-robotics-docusaurus-debug-98-e-479"
+      "plugin": "plugin---physical-ai-humanoid-robotics-docusaurus-debug-412-6ba"
     }
   },
-  "/physical-ai-humanoid-robotics/__docusaurus/debug/metadata-523": {
+  "/physical-ai-humanoid-robotics/__docusaurus/debug/metadata-aee": {
     "__comp": "__comp---theme-debug-site-metadata-68-e-3d4",
     "__context": {
-      "plugin": "plugin---physical-ai-humanoid-robotics-docusaurus-debug-98-e-479"
+      "plugin": "plugin---physical-ai-humanoid-robotics-docusaurus-debug-412-6ba"
     }
   },
-  "/physical-ai-humanoid-robotics/__docusaurus/debug/registry-c50": {
+  "/physical-ai-humanoid-robotics/__docusaurus/debug/registry-0b2": {
     "__comp": "__comp---theme-debug-registry-679-501",
     "__context": {
-      "plugin": "plugin---physical-ai-humanoid-robotics-docusaurus-debug-98-e-479"
+      "plugin": "plugin---physical-ai-humanoid-robotics-docusaurus-debug-412-6ba"
     }
   },
-  "/physical-ai-humanoid-robotics/__docusaurus/debug/routes-534": {
+  "/physical-ai-humanoid-robotics/__docusaurus/debug/routes-7fe": {
     "__comp": "__comp---theme-debug-routes-946-699",
     "__context": {
-      "plugin": "plugin---physical-ai-humanoid-robotics-docusaurus-debug-98-e-479"
+      "plugin": "plugin---physical-ai-humanoid-robotics-docusaurus-debug-412-6ba"
     }
   },
-  "/physical-ai-humanoid-robotics/docs-bb3": {
+  "/physical-ai-humanoid-robotics/docs-aec": {
     "__comp": "__comp---theme-docs-root-5-e-9-0b6",
     "__context": {
-      "plugin": "plugin---physical-ai-humanoid-robotics-docsf-7-c-064"
+      "plugin": "plugin---physical-ai-humanoid-robotics-docsfc-7-8ad"
     }
   },
   "/physical-ai-humanoid-robotics/docs-0bb": {
@@ -71,10 +71,10 @@
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---physical-ai-humanoid-robotics-docs-ros-2-basics-urdf-essentialsad-0-088"
   },
-  "/physical-ai-humanoid-robotics/-221": {
+  "/physical-ai-humanoid-robotics/-aa5": {
     "__comp": "__comp---site-src-pages-index-jsc-4-f-f99",
     "__context": {
-      "plugin": "plugin---physical-ai-humanoid-robotics-8-da-69e"
+      "plugin": "plugin---physical-ai-humanoid-robotics-607-5cc"
     },
     "config": "config---physical-ai-humanoid-robotics-5-e-9-711"
   }

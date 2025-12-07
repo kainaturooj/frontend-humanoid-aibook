@@ -11,7 +11,7 @@ const config = {
   url: 'https://fronend-humanoid-aibook.vercel.app',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub Pages deployment, it's usually '/<org-name>/<repo-name>/'
-  baseUrl: '/physical-ai-humanoid-robotics/',
+  baseUrl: '/',
 
   // GitHub pages deployment config.
   organizationName: 'kainaturooJ', // Usually your GitHub org/user name.
