@@ -8,14 +8,14 @@ const config = {
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
-  url: 'https://your-username.github.io',
+  url: 'https://fronend-humanoid-aibook.vercel.app',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub Pages deployment, it's usually '/<org-name>/<repo-name>/'
   baseUrl: '/physical-ai-humanoid-robotics/',
 
   // GitHub pages deployment config.
-  organizationName: 'your-organization', // Usually your GitHub org/user name.
-  projectName: 'physical-ai-humanoid-robotics', // Usually your repo name.
+  organizationName: 'kainaturooJ', // Usually your GitHub org/user name.
+  projectName: 'fronend-humanoid-aibook', // Usually your repo name.
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
@@ -38,7 +38,7 @@ const config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/your-username/physical-ai-humanoid-robotics/tree/main/',
+            'https://github.com/kainaturooJ/fronend-humanoid-aibook/tree/main/',
           sidebarCollapsible: true,
         },
         blog: false, // Optional: disable the blog plugin
@@ -68,7 +68,7 @@ const config = {
             label: 'Textbook',
           },
           {
-            href: 'https://github.com/your-username/physical-ai-humanoid-robotics',
+            href: 'https://github.com/kainaturooJ/fronend-humanoid-aibook',
             label: 'GitHub',
             position: 'right',
           },
@@ -104,7 +104,7 @@ const config = {
             items: [
               {
                 label: 'GitHub',
-                href: 'https://github.com/your-username/physical-ai-humanoid-robotics',
+                href: 'https://github.com/kainaturooJ/fronend-humanoid-aibook',
               },
             ],
           },
