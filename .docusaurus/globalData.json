@@ -1,0 +1,48 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/physical-ai-humanoid-robotics/docs",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/physical-ai-humanoid-robotics/docs",
+          "mainDocId": "intro",
+          "docs": [
+            {
+              "id": "intro",
+              "path": "/physical-ai-humanoid-robotics/docs/intro",
+              "sidebar": "textbookSidebar"
+            },
+            {
+              "id": "ros2-basics/python-ros2-integration",
+              "path": "/physical-ai-humanoid-robotics/docs/ros2-basics/python-ros2-integration",
+              "sidebar": "textbookSidebar"
+            },
+            {
+              "id": "ros2-basics/ros2-fundamentals",
+              "path": "/physical-ai-humanoid-robotics/docs/ros2-basics/ros2-fundamentals",
+              "sidebar": "textbookSidebar"
+            },
+            {
+              "id": "ros2-basics/urdf-essentials",
+              "path": "/physical-ai-humanoid-robotics/docs/ros2-basics/urdf-essentials",
+              "sidebar": "textbookSidebar"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "textbookSidebar": {
+              "link": {
+                "path": "/physical-ai-humanoid-robotics/docs/intro",
+                "label": "intro"
+              }
+            }
+          }
+        }
+      ],
+      "breadcrumbs": true
+    }
+  }
+}

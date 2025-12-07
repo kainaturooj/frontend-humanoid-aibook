@@ -1,0 +1,172 @@
+/*
+ * Custom CSS for Physical AI & Humanoid Robotics textbook
+ */
+
+/* Custom colors for the theme */
+:root {
+  --ifm-color-primary: #2563eb;
+  --ifm-color-primary-dark: #1d4ed8;
+  --ifm-color-primary-darker: #1a47c2;
+  --ifm-color-primary-darkest: #153a9e;
+  --ifm-color-primary-light: #3b82f6;
+  --ifm-color-primary-lighter: #4f95f7;
+  --ifm-color-primary-lightest: #63a8f8;
+  --ifm-code-font-size: 95%;
+}
+
+/* Custom styling for textbook content */
+.textbook-content {
+  font-family: 'Georgia', 'Times New Roman', serif;
+  line-height: 1.7;
+}
+
+/* Styling for learning objectives */
+.learning-objectives {
+  background-color: #f0f9ff;
+  border-left: 4px solid #2563eb;
+  padding: 1rem 1.5rem;
+  margin: 1.5rem 0;
+  border-radius: 0 8px 8px 0;
+}
+
+.learning-objectives h4 {
+  margin-top: 0;
+  color: #1e40af;
+  font-size: 1.1rem;
+}
+
+.learning-objectives ul {
+  margin-bottom: 0;
+}
+
+/* Styling for exercises and assessments */
+.exercise-box {
+  background-color: #f8fafc;
+  border: 1px solid #e2e8f0;
+  border-radius: 8px;
+  padding: 1.5rem;
+  margin: 1.5rem 0;
+}
+
+.exercise-box h3 {
+  color: #0f172a;
+  border-bottom: 2px solid #cbd5e1;
+  padding-bottom: 0.5rem;
+  margin-top: 0;
+}
+
+/* Styling for code examples */
+.code-example {
+  background-color: #f1f5f9;
+  border-radius: 8px;
+  padding: 1rem;
+  margin: 1rem 0;
+  overflow-x: auto;
+}
+
+/* Styling for important notes */
+.admonition.admonition-note {
+  border-left-color: #2563eb;
+}
+
+.admonition.admonition-tip {
+  border-left-color: #10b981;
+}
+
+.admonition.admonition-caution {
+  border-left-color: #f59e0b;
+}
+
+.admonition.admonition-warning {
+  border-left-color: #ef4444;
+}
+
+/* Custom styling for chapter navigation */
+.chapter-navigation {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 2rem;
+  padding-top: 1.5rem;
+  border-top: 1px solid #e2e8f0;
+}
+
+/* Styling for summary sections */
+.summary-section {
+  background-color: #fefce8;
+  border-left: 4px solid #f59e0b;
+  padding: 1rem 1.5rem;
+  margin: 1.5rem 0;
+  border-radius: 0 8px 8px 0;
+}
+
+/* Styling for assessment sections */
+.assessment-section {
+  background-color: #f0fdf4;
+  border: 1px solid #bbf7d0;
+  border-radius: 8px;
+  padding: 1.5rem;
+  margin: 1.5rem 0;
+}
+
+.assessment-section h3 {
+  color: #166534;
+  margin-top: 0;
+}
+
+/* Improve readability for long-form educational content */
+.markdown section:has(h1) {
+  padding-top: 1rem;
+}
+
+.markdown section:has(h2) {
+  padding-top: 1.5rem;
+}
+
+.markdown section:has(h3) {
+  padding-top: 1rem;
+}
+
+/* Custom styling for the sidebar */
+.menu__list-item-collapsible .menu__link--sublist {
+  font-weight: 600;
+  color: #1e293b;
+}
+
+/* Better spacing for educational content */
+.markdown h1 {
+  font-size: 2.5rem;
+  margin-bottom: 1.5rem;
+}
+
+.markdown h2 {
+  font-size: 1.75rem;
+  margin-bottom: 1.25rem;
+  color: #1e40af;
+}
+
+.markdown h3 {
+  font-size: 1.35rem;
+  margin-bottom: 1rem;
+  color: #334155;
+}
+
+/* Styling for the header */
+.navbar {
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+/* Footer styling */
+.footer {
+  background-color: #1e293b;
+  color: #f1f5f9;
+}
+
+/* Mobile responsiveness */
+@media (max-width: 996px) {
+  .learning-objectives,
+  .exercise-box,
+  .summary-section,
+  .assessment-section {
+    padding: 1rem;
+  }
+}

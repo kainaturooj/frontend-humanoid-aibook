@@ -1,0 +1,76 @@
+{
+  "pluginId": "default",
+  "version": "current",
+  "label": "Next",
+  "banner": null,
+  "badge": false,
+  "noIndex": false,
+  "className": "docs-version-current",
+  "isLast": true,
+  "docsSidebars": {
+    "textbookSidebar": [
+      {
+        "type": "link",
+        "label": "Introduction to Physical AI & Humanoid Robotics",
+        "href": "/physical-ai-humanoid-robotics/docs/intro",
+        "docId": "intro",
+        "unlisted": false
+      },
+      {
+        "type": "category",
+        "label": "Module 1: ROS 2 Basics - The Robotic Nervous System",
+        "items": [
+          {
+            "type": "link",
+            "label": "ROS 2 Basics: Nodes, Topics, and Services",
+            "href": "/physical-ai-humanoid-robotics/docs/ros2-basics/ros2-fundamentals",
+            "docId": "ros2-basics/ros2-fundamentals",
+            "unlisted": false
+          },
+          {
+            "type": "link",
+            "label": "Python Agents → ROS 2 Control (rclpy)",
+            "href": "/physical-ai-humanoid-robotics/docs/ros2-basics/python-ros2-integration",
+            "docId": "ros2-basics/python-ros2-integration",
+            "unlisted": false
+          },
+          {
+            "type": "link",
+            "label": "URDF Essentials for Humanoid Robots",
+            "href": "/physical-ai-humanoid-robotics/docs/ros2-basics/urdf-essentials",
+            "docId": "ros2-basics/urdf-essentials",
+            "unlisted": false
+          }
+        ],
+        "collapsed": true,
+        "collapsible": true
+      }
+    ]
+  },
+  "docs": {
+    "intro": {
+      "id": "intro",
+      "title": "Introduction to Physical AI & Humanoid Robotics",
+      "description": "Welcome to the comprehensive textbook on Physical AI & Humanoid Robotics. This educational resource is designed to guide students and professionals through the fundamental concepts, technologies, and applications of physical artificial intelligence in humanoid robotics.",
+      "sidebar": "textbookSidebar"
+    },
+    "ros2-basics/python-ros2-integration": {
+      "id": "ros2-basics/python-ros2-integration",
+      "title": "Python Agents → ROS 2 Control (rclpy)",
+      "description": "Overview",
+      "sidebar": "textbookSidebar"
+    },
+    "ros2-basics/ros2-fundamentals": {
+      "id": "ros2-basics/ros2-fundamentals",
+      "title": "ROS 2 Basics: Nodes, Topics, and Services",
+      "description": "Overview",
+      "sidebar": "textbookSidebar"
+    },
+    "ros2-basics/urdf-essentials": {
+      "id": "ros2-basics/urdf-essentials",
+      "title": "URDF Essentials for Humanoid Robots",
+      "description": "Overview",
+      "sidebar": "textbookSidebar"
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "ros2-basics/urdf-essentials",
+  "title": "URDF Essentials for Humanoid Robots",
+  "description": "Overview",
+  "source": "@site/docs/ros2-basics/urdf-essentials.md",
+  "sourceDirName": "ros2-basics",
+  "slug": "/ros2-basics/urdf-essentials",
+  "permalink": "/physical-ai-humanoid-robotics/docs/ros2-basics/urdf-essentials",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/your-username/physical-ai-humanoid-robotics/tree/main/docs/ros2-basics/urdf-essentials.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "textbookSidebar",
+  "previous": {
+    "title": "Python Agents → ROS 2 Control (rclpy)",
+    "permalink": "/physical-ai-humanoid-robotics/docs/ros2-basics/python-ros2-integration"
+  }
+}

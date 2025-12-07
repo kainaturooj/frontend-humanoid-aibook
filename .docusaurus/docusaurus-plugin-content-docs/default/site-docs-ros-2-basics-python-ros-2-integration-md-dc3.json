@@ -1,0 +1,27 @@
+{
+  "id": "ros2-basics/python-ros2-integration",
+  "title": "Python Agents → ROS 2 Control (rclpy)",
+  "description": "Overview",
+  "source": "@site/docs/ros2-basics/python-ros2-integration.md",
+  "sourceDirName": "ros2-basics",
+  "slug": "/ros2-basics/python-ros2-integration",
+  "permalink": "/physical-ai-humanoid-robotics/docs/ros2-basics/python-ros2-integration",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/your-username/physical-ai-humanoid-robotics/tree/main/docs/ros2-basics/python-ros2-integration.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "textbookSidebar",
+  "previous": {
+    "title": "ROS 2 Basics: Nodes, Topics, and Services",
+    "permalink": "/physical-ai-humanoid-robotics/docs/ros2-basics/ros2-fundamentals"
+  },
+  "next": {
+    "title": "URDF Essentials for Humanoid Robots",
+    "permalink": "/physical-ai-humanoid-robotics/docs/ros2-basics/urdf-essentials"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "ros2-basics/ros2-fundamentals",
+  "title": "ROS 2 Basics: Nodes, Topics, and Services",
+  "description": "Overview",
+  "source": "@site/docs/ros2-basics/ros2-fundamentals.md",
+  "sourceDirName": "ros2-basics",
+  "slug": "/ros2-basics/ros2-fundamentals",
+  "permalink": "/physical-ai-humanoid-robotics/docs/ros2-basics/ros2-fundamentals",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/your-username/physical-ai-humanoid-robotics/tree/main/docs/ros2-basics/ros2-fundamentals.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "textbookSidebar",
+  "previous": {
+    "title": "Introduction to Physical AI & Humanoid Robotics",
+    "permalink": "/physical-ai-humanoid-robotics/docs/intro"
+  },
+  "next": {
+    "title": "Python Agents → ROS 2 Control (rclpy)",
+    "permalink": "/physical-ai-humanoid-robotics/docs/ros2-basics/python-ros2-integration"
+  }
+}

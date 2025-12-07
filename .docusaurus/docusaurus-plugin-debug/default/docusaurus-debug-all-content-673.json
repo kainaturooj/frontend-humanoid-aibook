@@ -1,0 +1,169 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "loadedVersions": [
+        {
+          "versionName": "current",
+          "label": "Next",
+          "banner": null,
+          "badge": false,
+          "noIndex": false,
+          "className": "docs-version-current",
+          "path": "/physical-ai-humanoid-robotics/docs",
+          "tagsPath": "/physical-ai-humanoid-robotics/docs/tags",
+          "editUrl": "https://github.com/your-username/physical-ai-humanoid-robotics/tree/main/docs",
+          "editUrlLocalized": "https://github.com/your-username/physical-ai-humanoid-robotics/tree/main/i18n/en/docusaurus-plugin-content-docs/current",
+          "isLast": true,
+          "routePriority": -1,
+          "sidebarFilePath": "F:\\humanoid_robotic_ai_book\\book\\sidebars.js",
+          "contentPath": "F:\\humanoid_robotic_ai_book\\book\\docs",
+          "contentPathLocalized": "F:\\humanoid_robotic_ai_book\\book\\i18n\\en\\docusaurus-plugin-content-docs\\current",
+          "docs": [
+            {
+              "id": "intro",
+              "title": "Introduction to Physical AI & Humanoid Robotics",
+              "description": "Welcome to the comprehensive textbook on Physical AI & Humanoid Robotics. This educational resource is designed to guide students and professionals through the fundamental concepts, technologies, and applications of physical artificial intelligence in humanoid robotics.",
+              "source": "@site/docs/intro.md",
+              "sourceDirName": ".",
+              "slug": "/intro",
+              "permalink": "/physical-ai-humanoid-robotics/docs/intro",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/your-username/physical-ai-humanoid-robotics/tree/main/docs/intro.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "textbookSidebar",
+              "next": {
+                "title": "ROS 2 Basics: Nodes, Topics, and Services",
+                "permalink": "/physical-ai-humanoid-robotics/docs/ros2-basics/ros2-fundamentals"
+              }
+            },
+            {
+              "id": "ros2-basics/python-ros2-integration",
+              "title": "Python Agents → ROS 2 Control (rclpy)",
+              "description": "Overview",
+              "source": "@site/docs/ros2-basics/python-ros2-integration.md",
+              "sourceDirName": "ros2-basics",
+              "slug": "/ros2-basics/python-ros2-integration",
+              "permalink": "/physical-ai-humanoid-robotics/docs/ros2-basics/python-ros2-integration",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/your-username/physical-ai-humanoid-robotics/tree/main/docs/ros2-basics/python-ros2-integration.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 2,
+              "frontMatter": {
+                "sidebar_position": 2
+              },
+              "sidebar": "textbookSidebar",
+              "previous": {
+                "title": "ROS 2 Basics: Nodes, Topics, and Services",
+                "permalink": "/physical-ai-humanoid-robotics/docs/ros2-basics/ros2-fundamentals"
+              },
+              "next": {
+                "title": "URDF Essentials for Humanoid Robots",
+                "permalink": "/physical-ai-humanoid-robotics/docs/ros2-basics/urdf-essentials"
+              }
+            },
+            {
+              "id": "ros2-basics/ros2-fundamentals",
+              "title": "ROS 2 Basics: Nodes, Topics, and Services",
+              "description": "Overview",
+              "source": "@site/docs/ros2-basics/ros2-fundamentals.md",
+              "sourceDirName": "ros2-basics",
+              "slug": "/ros2-basics/ros2-fundamentals",
+              "permalink": "/physical-ai-humanoid-robotics/docs/ros2-basics/ros2-fundamentals",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/your-username/physical-ai-humanoid-robotics/tree/main/docs/ros2-basics/ros2-fundamentals.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "textbookSidebar",
+              "previous": {
+                "title": "Introduction to Physical AI & Humanoid Robotics",
+                "permalink": "/physical-ai-humanoid-robotics/docs/intro"
+              },
+              "next": {
+                "title": "Python Agents → ROS 2 Control (rclpy)",
+                "permalink": "/physical-ai-humanoid-robotics/docs/ros2-basics/python-ros2-integration"
+              }
+            },
+            {
+              "id": "ros2-basics/urdf-essentials",
+              "title": "URDF Essentials for Humanoid Robots",
+              "description": "Overview",
+              "source": "@site/docs/ros2-basics/urdf-essentials.md",
+              "sourceDirName": "ros2-basics",
+              "slug": "/ros2-basics/urdf-essentials",
+              "permalink": "/physical-ai-humanoid-robotics/docs/ros2-basics/urdf-essentials",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/your-username/physical-ai-humanoid-robotics/tree/main/docs/ros2-basics/urdf-essentials.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 3,
+              "frontMatter": {
+                "sidebar_position": 3
+              },
+              "sidebar": "textbookSidebar",
+              "previous": {
+                "title": "Python Agents → ROS 2 Control (rclpy)",
+                "permalink": "/physical-ai-humanoid-robotics/docs/ros2-basics/python-ros2-integration"
+              }
+            }
+          ],
+          "drafts": [],
+          "sidebars": {
+            "textbookSidebar": [
+              {
+                "type": "doc",
+                "id": "intro"
+              },
+              {
+                "type": "category",
+                "label": "Module 1: ROS 2 Basics - The Robotic Nervous System",
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "ros2-basics/ros2-fundamentals"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "ros2-basics/python-ros2-integration"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "ros2-basics/urdf-essentials"
+                  }
+                ],
+                "collapsed": true,
+                "collapsible": true
+              }
+            ]
+          }
+        }
+      ]
+    }
+  },
+  "docusaurus-plugin-content-pages": {
+    "default": [
+      {
+        "type": "jsx",
+        "permalink": "/physical-ai-humanoid-robotics/",
+        "source": "@site/src/pages/index.js"
+      }
+    ]
+  },
+  "docusaurus-plugin-debug": {},
+  "docusaurus-theme-classic": {},
+  "docusaurus-bootstrap-plugin": {},
+  "docusaurus-mdx-fallback-plugin": {}
+}
